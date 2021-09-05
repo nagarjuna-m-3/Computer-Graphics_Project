@@ -128,16 +128,6 @@ void display()
         char pb[] = "PROJECT BY: ";
         drawhead(-250, -150, 0, pb);
 
-        char p1[] = "NAGARJUNA M";
-        drawhead(-150, -250, 0, p1);
-        char p1u[] = "4NN18CS029";
-        drawsubhead(-150, -300, 0, p1u);
-
-        char p2[] = "KUSHAL M S";
-        drawhead(-150, -400, 0, p2);
-        char p2u[] = "4NN18CS025";
-        drawsubhead(-150, -450, 0, p2u);
-
         char in[] = "Press enter to Continue";
         drawhead(-150, -700, 0, in);
 
